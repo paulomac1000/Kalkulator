@@ -1,0 +1,13 @@
+c:\users\pablo\documents\visual studio 2015\Projects\Kalkulator\Kalkulator\bin\Release\Kalkulator.exe.config
+c:\users\pablo\documents\visual studio 2015\Projects\Kalkulator\Kalkulator\bin\Release\Kalkulator.exe
+c:\users\pablo\documents\visual studio 2015\Projects\Kalkulator\Kalkulator\bin\Release\Kalkulator.pdb
+c:\users\pablo\documents\visual studio 2015\Projects\Kalkulator\Kalkulator\obj\Release\MainWindow.g.cs
+c:\users\pablo\documents\visual studio 2015\Projects\Kalkulator\Kalkulator\obj\Release\App.g.cs
+c:\users\pablo\documents\visual studio 2015\Projects\Kalkulator\Kalkulator\obj\Release\Kalkulator_MarkupCompile.cache
+c:\users\pablo\documents\visual studio 2015\Projects\Kalkulator\Kalkulator\obj\Release\Kalkulator_MarkupCompile.lref
+c:\users\pablo\documents\visual studio 2015\Projects\Kalkulator\Kalkulator\obj\Release\MainWindow.baml
+c:\users\pablo\documents\visual studio 2015\Projects\Kalkulator\Kalkulator\obj\Release\Kalkulator.g.resources
+c:\users\pablo\documents\visual studio 2015\Projects\Kalkulator\Kalkulator\obj\Release\Kalkulator.Properties.Resources.resources
+c:\users\pablo\documents\visual studio 2015\Projects\Kalkulator\Kalkulator\obj\Release\Kalkulator.csproj.GenerateResource.Cache
+c:\users\pablo\documents\visual studio 2015\Projects\Kalkulator\Kalkulator\obj\Release\Kalkulator.exe
+c:\users\pablo\documents\visual studio 2015\Projects\Kalkulator\Kalkulator\obj\Release\Kalkulator.pdb

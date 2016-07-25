@@ -1,0 +1,21 @@
+﻿<Window x:Name="Kalkulator" x:Class="WpfApplication1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApplication1"
+        mc:Ignorable="d"
+        Title="Kalkulator" Height="182.166" Width="311.167" WindowStartupLocation="Manual">
+    <Grid>
+        <TextBox x:Name="TextBoxX1" HorizontalAlignment="Left" Height="23" Margin="150,25,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Button x:Name="ButtonDodawanie" Content="Dodawanie" HorizontalAlignment="Left" Margin="30,15,0,0" VerticalAlignment="Top" Width="80" Click="ButtonDodawanie_Click"/>
+        <Button x:Name="ButtonOdejmowanie" Content="Odejmowanie" HorizontalAlignment="Left" Margin="30,45,0,0" VerticalAlignment="Top" Width="80" Click="ButtonOdejmowanie_Click"/>
+        <Button x:Name="ButtonMnożenie" Content="Mnożenie" HorizontalAlignment="Left" Margin="30,76,0,0" VerticalAlignment="Top" Width="80" Click="ButtonMnożenie_Click"/>
+        <Button x:Name="ButtonDzielenie" Content="Dzielenie" HorizontalAlignment="Left" Margin="30,106,0,0" VerticalAlignment="Top" Width="80" Click="ButtonDzielenie_Click"/>
+        <TextBox x:Name="TextBoxX2" HorizontalAlignment="Left" Height="23" Margin="150,66,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="TextBoxWynik" HorizontalAlignment="Left" Height="23" Margin="150,106,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBlock x:Name="textBlock" HorizontalAlignment="Left" Margin="150,9,0,0" TextWrapping="Wrap" Text="X1" VerticalAlignment="Top"/>
+        <TextBlock x:Name="textBlock_Copy" HorizontalAlignment="Left" Margin="150,49,0,0" TextWrapping="Wrap" VerticalAlignment="Top"><Run Text="X2"/><LineBreak/><Run/></TextBlock>
+        <TextBlock x:Name="textBlock_Copy1" HorizontalAlignment="Left" Margin="150,90,0,0" TextWrapping="Wrap" Text="Wynik" VerticalAlignment="Top"/>
+    </Grid>
+</Window>
